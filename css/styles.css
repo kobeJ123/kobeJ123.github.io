@@ -162,10 +162,10 @@ header a:hover{
     display: grid;
     flex-wrap: wrap;
     justify-content: space-around;
-    padding: 42px;
+    padding: 40px;
 }
 
-
+/* footer */
 footer{
     padding:20px;
     margin-top:20px;
